@@ -93,7 +93,7 @@ Three free options. **Streamlit Community Cloud is the easiest** — no card, no
 2. Go to <https://share.streamlit.io> and sign in with GitHub.
 3. **Create app** → pick the repo, branch `main`, main file `app.py` → **Deploy**.
 4. Wait ~2 minutes. You get a URL like
-   `https://<your-username>-greencell-voltage-analysis.streamlit.app`.
+   `[https://greencell-voltage-analysis-fbpuattdwq4dapp9trpxloj.streamlit.app/]`.
 5. Paste that URL at the top of this README and in your submission.
 
 ### Option B — Render
