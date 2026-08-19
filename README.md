@@ -4,7 +4,7 @@ Greencell internship assignment (July 2026). Analysis of a week of voltage
 telemetry: 21,919 readings taken between **26 Jun 2024 06:17** and
 **03 Jul 2024 10:30**.
 
-**Live dashboard:** _paste your URL here after deploying (see below)_
+**Live dashboard:** https://greencell-voltage-analysis-fbpuattdwq4dapp9trpxloj.streamlit.app/
 
 ---
 
