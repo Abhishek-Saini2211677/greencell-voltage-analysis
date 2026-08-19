@@ -1,0 +1,16 @@
+Metric,Value
+Raw rows in file,21919
+Distinct timestamps (minute resolution),5934
+Readings per minute (mean),3.69
+Readings per minute (median),4.0
+First reading,2024-06-26 06:17:00
+Last reading,2024-07-03 10:30:00
+Span covered,7 days 04:13:00
+Minimum voltage,25
+Maximum voltage,100
+Mean voltage,67.33
+Std deviation,21.79
+Gaps longer than 5 min,90
+Longest gap (min),337.0
+Minutes on 1-min grid,10334
+Minutes with no data (kept as NaN),3936

@@ -1,0 +1,8 @@
+# Only needed to rebuild the notebook and the Word report.
+# Runtime (analysis + dashboard) needs requirements.txt alone.
+nbformat>=5.9
+nbclient>=0.9
+ipykernel>=6.29
+ipython>=8.12
+# plus Node.js with the `docx` package for build_report.js:
+#   npm install docx
